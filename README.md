@@ -4,9 +4,9 @@
 
 I’m a passionate web/app developer currently studying Software Engineering at the University of Science - VNU HCMC (GPA 3.78). I enjoy building intuitive, real-time, and scalable applications, especially in the domains of IoT, recruitment tech, and smart contracts. I thrive in Agile environments and love taking on roles that bridge both engineering and management.
 
-- 🔭 I’m currently working on: Real-time IoT dashboards and sentiment analysis tools
-- 🌱 Learning about: Blockchain, MQTT, MVVM patterns, and advanced TypeScript
-- 🧠 Ask me about: Firebase, React, Jetpack Compose, and project management
+- 🔭 I’m currently working on: Software Engineering. 
+- 🌱 Learning about: C#, MVVM patterns, TypeScript, Blockchain.
+- 🧠 Ask me about: Firebase, React, Jetpack Compose, and Project Management
 - ⚡ Fun fact: I’ve built smart home systems, recruitment platforms, and even a remote control system via Gmail!
 
 ---
