@@ -71,8 +71,8 @@ A smart device control dashboard with MQTT support.
 *“Driven by curiosity, guided by structure, and powered by caffeine.”*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sang-Nguyen-Phuoc/Sang-Nguyen-Phuoc/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sang-Nguyen-Phuoc/Sang-Nguyen-Phuoc/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sang-Nguyen-Phuoc/Sang-Nguyen-Phuoc/output/github-snake.svg" />
 </picture>
 
