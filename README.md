@@ -64,7 +64,7 @@ A smart device control dashboard with MQTT support.
 ### 📫 Connect With Me
 
 - 📧 Email: sang.p.nguyenwork@gmail.com  
-- 🌍 [GitHub Profile](https://github.com/Sang-Nguyen-Phuoc)
+- 🌍 [LinkedIn Profile](https://www.linkedin.com/in/phuoc-sang-nguyen-889022301/)
 
 ---
 
