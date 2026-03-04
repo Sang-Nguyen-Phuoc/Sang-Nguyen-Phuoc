@@ -1,6 +1,6 @@
 # 🚀 Nguyen Phuoc Sang
 
-**`Aspiring Web/App Developer | Software Engineer | Tech Enthusiast`**
+**`Aspiring AI-integrated Web/App Developer | Software Engineer | Tech Enthusiast`**
 
 I’m a passionate web/app developer currently studying Software Engineering at the University of Science - VNU HCMC (GPA 3.78). I enjoy building intuitive, real-time, and scalable applications, especially in the domains of IoT, recruitment tech, and smart contracts. I thrive in Agile environments and love taking on roles that bridge both engineering and management.
 
